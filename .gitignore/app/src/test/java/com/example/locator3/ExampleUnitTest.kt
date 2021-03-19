@@ -1,4 +1,4 @@
-package com.example.calculator_pract
+package com.example.locator3
 
 import org.junit.Test
 
