@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "locator3"
+rootProject.name = "Goolge_maps"
